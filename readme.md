@@ -8,3 +8,7 @@ This repository contains all of the notes taken by [Tom](https://github.com/lim1
 
 
 
+### Table of contents
+
+* [Week 1](/week_1)
+  * [Day 1](/week_1/day_1)
